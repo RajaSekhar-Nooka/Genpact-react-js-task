@@ -1,0 +1,20 @@
+{
+  "name": "react-kffsvz",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/react-kffsvz",
+  "dependencies": {
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-scripts": "1.0.10",
+    "axios": "0.18.0",
+    "redux": "4.0.0"
+  },
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
